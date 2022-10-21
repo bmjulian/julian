@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    
+    <link rel="stylesheet" href="../css/estilos">
+</head>
+<body>
+    
+
+
+<div id="wrapper">
+
+<div id="div1">
+<p<Programacion.net helps you connect and share with the <br></p>
+<img src="../img/images.png">
+</div>
+
+<div id="div2">
+    <center>
+    <font face="Agency FB">
+<h1>REGISTRATE Y CREA TU CUENTA</h1>
+</font>
+    </center>
+<li><input type="text" placeholder="Nombre" id="firstname">
+<br>
+<li><input type="text" placeholder="Ingresa Numero de telefono o Correo"></li>
+<br>
+<li><input type="text" placeholder="Vuelve a ingresar Num.telefono o Correo"></li>
+<br>
+<li><input type="password" placeholder="New password"></li>
+<center>
+<li>
+    <font face="Ink Free">
+        <font color="black">
+        <h1><label for="start">FECHA DE NACIMIENTO</label></h1>
+        <h1><input type="date" id="start" name="trip-start"
+               value="2018-07-22"
+               min="2018-01-01" max="2018-12-31">
+        </h1>
+        </font>
+</font>
+</li>
+<li><input type="radio">MUJER <input type="radio">HOMBRE</li>
+
+<li><input type="submit" value="CREA TU CUENTA"></li>
+<li id="create_page"><a href="">Create a Page</a> for a Julian Jesus Buenrostro</li>
+</div>
+</center>
+</div>
+</html>
